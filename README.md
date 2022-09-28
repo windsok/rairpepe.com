@@ -12,7 +12,7 @@ If you don't have it already, you'll need to install [Telegram Messenger](https:
 * DM the bot your address. The bot will ask you to sign a message with your wallet to prove that you own this address
 * Use the Sign Message feature in Rare Pepe Wallet, Freewallet or Counterwallet to sign the message (see below for more details)
 * That's it! If you've sucessfully signed and you hold a `RAIRPEPE` you're good to go. If something went wrong, then the bot might get angry..
-* DM [@Scrilla](https://t.me/scrillaventura) to get the invite link to Club DJPEPE
+* DM [@Scrilla](https://t.me/scrillaventura) if you run into any issues
 
 ---
 
